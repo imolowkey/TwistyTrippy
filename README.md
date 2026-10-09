@@ -8,8 +8,6 @@ A customizable SwiftUI DNA loader with glowing gradients, playful text effects, 
 
 ![TwistyTrippy demo](media/demo.gif)
 
-[leoio.com](https://leoio.com)
-
 <!-- Add screenshots at these paths, then uncomment:
 ![Interactive playground](media/playground.png)
 ![Gradient themes](media/themes.png)
@@ -195,3 +193,7 @@ Sources/TwistyTrippy/       # Reusable views and configuration
 TwistyTrippy/              # Demo app, playground, and assets
 TwistyTrippy.xcodeproj/    # Demo project with a local package dependency
 ```
+
+---
+
+Made by **Mohi** · [leoio.com](https://leoio.com)

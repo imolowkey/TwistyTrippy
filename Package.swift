@@ -1,4 +1,11 @@
 // swift-tools-version: 5.9
+//
+//  Package.swift
+//  TwistyTrippy
+//
+//  Created by Mohi on October 8, 2026.
+//
+
 import PackageDescription
 
 let package = Package(

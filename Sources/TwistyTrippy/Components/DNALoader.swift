@@ -1,3 +1,10 @@
+//
+//  DNALoader.swift
+//  TwistyTrippy
+//
+//  Created by Mohi on October 8, 2026.
+//
+
 import SwiftUI
 
 /// Reusable, Canvas-powered DNA loading animation.
