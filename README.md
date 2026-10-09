@@ -6,12 +6,15 @@ A customizable SwiftUI DNA loader with glowing gradients, playful text effects, 
 
 **iOS 17+ · Swift 5.9+ · Zero dependencies**
 
-<!-- Add your media at these paths, then uncomment:
 ![TwistyTrippy demo](media/demo.gif)
+
+[leoio.com](https://leoio.com)
+
+<!-- Add screenshots at these paths, then uncomment:
 ![Interactive playground](media/playground.png)
 ![Gradient themes](media/themes.png)
 -->
-*Demo GIF and screenshots coming soon.*
+*More screenshots coming soon.*
 
 ## Features
 
@@ -33,7 +36,7 @@ https://github.com/imolowkey/TwistyTrippy
 
 Choose the **Branch** dependency rule with `main`, then add the **TwistyTrippy** library to your app target. Requires Xcode 15 or later and an iOS deployment target of 17.0 or later.
 
-The package is distributed directly from this Git repository; no separate registry publication is needed. While the repository is private, users must authenticate with a GitHub account that has access.
+The package is distributed directly from this Git repository; no separate registry publication is needed.
 
 For another Swift package, add the dependency and product to your manifest:
 
